@@ -1,0 +1,6 @@
+DATA_DIR = '../text_only/try_1'
+BATCH_SIZE = 32
+IMAGE_WIDTH = 150
+IMAGE_HEIGHT = 75
+EPOCHS = 1
+DEVICE = 'cuda'
